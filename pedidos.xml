@@ -1,0 +1,2483 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE clientes SYSTEM "file:/C:/Users/Campus%20FP/Desktop/Hitolenguajedemarcas/pedidos.dtd">
+<clientes>
+    <año valor="2021">
+        <trimestre valor="Q1">
+            <!-- Ejemplo de pedidos para el primer trimestre de 2021 -->
+            <pedido>
+                <clienteId>1</clienteId>
+                <numeroPedido>1001</numeroPedido>
+                <fechaCompra>2021-01-15</fechaCompra>
+                <fechaEntrega>2021-01-25</fechaEntrega>
+                <totalFactura>450</totalFactura>
+                <productos>
+                    <producto>
+                        <nombre>Cámara Digital</nombre>
+                        <referencia>CD2021</referencia>
+                        <precio>450</precio>
+                        <unidades>1</unidades>
+                    </producto>
+                </productos>
+            </pedido>
+            <pedido>
+                <clienteId>3</clienteId>
+                <numeroPedido>1001</numeroPedido>
+                <fechaCompra>2021-11-04</fechaCompra>
+                <fechaEntrega>2021-11-05</fechaEntrega>
+                <productos>
+                    <producto>
+                        <nombre>Teclado Mecánico</nombre>
+                        <referencia>TM2021</referencia>
+                        <precio>100</precio>
+                    </producto>
+                    <producto>
+                        <nombre>Ratón Inalámbrico</nombre>
+                        <referencia>RI2021</referencia>
+                        <precio>50</precio>
+                    </producto>
+                    <producto>
+                        <nombre>Memoria USB 64GB</nombre>
+                        <referencia>MU64GB2021</referencia>
+                        <precio>25</precio>
+                    </producto>
+                </productos>
+                <totalFactura>175</totalFactura>
+            </pedido>
+            <pedido>
+          <clienteId>7</clienteId>
+          <numeroPedido>1002</numeroPedido>
+          <fechaCompra>2021-12-04</fechaCompra>
+          <fechaEntrega>2021-12-13</fechaEntrega>
+          <productos>
+              <producto>
+                  <nombre>Cargador Portátil</nombre>
+                  <referencia>CP2021</referencia>
+                  <precio>30</precio>
+              </producto>
+          </productos>
+          <totalFactura>30</totalFactura>
+      </pedido>
+      <pedido>
+          <clienteId>9</clienteId>
+          <numeroPedido>1003</numeroPedido>
+          <fechaCompra>2021-01-01</fechaCompra>
+          <fechaEntrega>2021-01-03</fechaEntrega>
+          <productos>
+              <producto>
+                  <nombre>Ratón Inalámbrico</nombre>
+                  <referencia>RI2021</referencia>
+                  <precio>50</precio>
+              </producto>
+          </productos>
+          <totalFactura>50</totalFactura>
+      </pedido>
+      <pedido>
+          <clienteId>7</clienteId>
+          <numeroPedido>1004</numeroPedido>
+          <fechaCompra>2021-10-01</fechaCompra>
+          <fechaEntrega>2021-10-10</fechaEntrega>
+          <productos>
+              <producto>
+                  <nombre>Memoria USB 64GB</nombre>
+                  <referencia>MU64GB2021</referencia>
+                  <precio>25</precio>
+              </producto>
+          </productos>
+          <totalFactura>25</totalFactura>
+      </pedido>
+      <pedido>
+          <clienteId>12</clienteId>
+          <numeroPedido>1005</numeroPedido>
+          <fechaCompra>2021-04-15</fechaCompra>
+          <fechaEntrega>2021-04-25</fechaEntrega>
+          <productos>
+              <producto>
+                  <nombre>Laptop Profesional</nombre>
+                  <referencia>LP2021</referencia>
+                  <precio>1200</precio>
+              </producto>
+              <producto>
+                  <nombre>Monitor 4K</nombre>
+                  <referencia>M4K2021</referencia>
+                  <precio>400</precio>
+              </producto>
+          </productos>
+          <totalFactura>1600</totalFactura>
+      </pedido>
+      <pedido>
+    <clienteId>2</clienteId>
+    <numeroPedido>1002</numeroPedido>
+    <fechaCompra>2021-02-20</fechaCompra>
+    <fechaEntrega>2021-03-05</fechaEntrega>
+    <totalFactura>720</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Teléfono móvil</nombre>
+            <referencia>TM2021</referencia>
+            <precio>720</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+<pedido>
+    <clienteId>3</clienteId>
+    <numeroPedido>1003</numeroPedido>
+    <fechaCompra>2021-03-10</fechaCompra>
+    <fechaEntrega>2021-03-20</fechaEntrega>
+    <totalFactura>850</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Portátil</nombre>
+            <referencia>PL2021</referencia>
+            <precio>850</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+<pedido>
+    <clienteId>4</clienteId>
+    <numeroPedido>1004</numeroPedido>
+    <fechaCompra>2021-04-05</fechaCompra>
+    <fechaEntrega>2021-04-15</fechaEntrega>
+    <totalFactura>300</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Auriculares Bluetooth</nombre>
+            <referencia>AB2021</referencia>
+            <precio>300</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+<pedido>
+    <clienteId>5</clienteId>
+    <numeroPedido>1005</numeroPedido>
+    <fechaCompra>2021-05-12</fechaCompra>
+    <fechaEntrega>2021-05-22</fechaEntrega>
+    <totalFactura>1500</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Televisor LED</nombre>
+            <referencia>TL2021</referencia>
+            <precio>1500</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+<pedido>
+    <clienteId>6</clienteId>
+    <numeroPedido>1006</numeroPedido>
+    <fechaCompra>2021-06-18</fechaCompra>
+    <fechaEntrega>2021-06-28</fechaEntrega>
+    <totalFactura>200</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Altavoz Bluetooth</nombre>
+            <referencia>AB2021</referencia>
+            <precio>200</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+<pedido>
+    <clienteId>7</clienteId>
+    <numeroPedido>1007</numeroPedido>
+    <fechaCompra>2021-07-03</fechaCompra>
+    <fechaEntrega>2021-07-13</fechaEntrega>
+    <totalFactura>700</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Smartwatch</nombre>
+            <referencia>SW2021</referencia>
+            <precio>700</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+<pedido>
+    <clienteId>8</clienteId>
+    <numeroPedido>1008</numeroPedido>
+    <fechaCompra>2021-08-20</fechaCompra>
+    <fechaEntrega>2021-08-30</fechaEntrega>
+    <totalFactura>400</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Impresora</nombre>
+            <referencia>IP2021</referencia>
+            <precio>400</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+<pedido>
+    <clienteId>9</clienteId>
+    <numeroPedido>1009</numeroPedido>
+    <fechaCompra>2021-09-05</fechaCompra>
+    <fechaEntrega>2021-09-15</fechaEntrega>
+    <totalFactura>3000</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Ordenador de sobremesa</nombre>
+            <referencia>OS2021</referencia>
+            <precio>3000</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+<pedido>
+    <clienteId>10</clienteId>
+    <numeroPedido>1010</numeroPedido>
+    <fechaCompra>2021-10-10</fechaCompra>
+    <fechaEntrega>2021-10-20</fechaEntrega>
+    <totalFactura>250</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Memoria USB</nombre>
+            <referencia>MU2021</referencia>
+            <precio>250</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+<pedido>
+    <clienteId>11</clienteId>
+    <numeroPedido>1011</numeroPedido>
+    <fechaCompra>2021-11-25</fechaCompra>
+    <fechaEntrega>2021-12-05</fechaEntrega>
+    <totalFactura>1200</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Tableta gráfica</nombre>
+            <referencia>TG2021</referencia>
+            <precio>1200</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+<pedido>
+    <clienteId>12</clienteId>
+    <numeroPedido>1012</numeroPedido>
+    <fechaCompra>2022-01-10</fechaCompra>
+    <fechaEntrega>2022-01-20</fechaEntrega>
+    <totalFactura>600</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Monitor</nombre>
+            <referencia>MON2022</referencia>
+            <precio>600</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>13</clienteId>
+    <numeroPedido>1013</numeroPedido>
+    <fechaCompra>2022-02-05</fechaCompra>
+    <fechaEntrega>2022-02-15</fechaEntrega>
+    <totalFactura>350</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Ratón inalámbrico</nombre>
+            <referencia>RI2022</referencia>
+            <precio>350</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>14</clienteId>
+    <numeroPedido>1014</numeroPedido>
+    <fechaCompra>2022-03-12</fechaCompra>
+    <fechaEntrega>2022-03-22</fechaEntrega>
+    <totalFactura>850</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Impresora multifunción</nombre>
+            <referencia>IM2022</referencia>
+            <precio>850</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>15</clienteId>
+    <numeroPedido>1015</numeroPedido>
+    <fechaCompra>2022-04-18</fechaCompra>
+    <fechaEntrega>2022-04-28</fechaEntrega>
+    <totalFactura>400</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Teclado mecánico</nombre>
+            <referencia>TM2022</referencia>
+            <precio>400</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>16</clienteId>
+    <numeroPedido>1016</numeroPedido>
+    <fechaCompra>2022-05-25</fechaCompra>
+    <fechaEntrega>2022-06-04</fechaEntrega>
+    <totalFactura>1200</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Drone con cámara HD</nombre>
+            <referencia>DC2022</referencia>
+            <precio>1200</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>17</clienteId>
+    <numeroPedido>1017</numeroPedido>
+    <fechaCompra>2022-06-10</fechaCompra>
+    <fechaEntrega>2022-06-20</fechaEntrega>
+    <totalFactura>550</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Auriculares con cancelación de ruido</nombre>
+            <referencia>ACR2022</referencia>
+            <precio>550</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>18</clienteId>
+    <numeroPedido>1018</numeroPedido>
+    <fechaCompra>2022-07-15</fechaCompra>
+    <fechaEntrega>2022-07-25</fechaEntrega>
+    <totalFactura>900</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Portátil gaming</nombre>
+            <referencia>PG2022</referencia>
+            <precio>900</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>19</clienteId>
+    <numeroPedido>1019</numeroPedido>
+    <fechaCompra>2022-08-20</fechaCompra>
+    <fechaEntrega>2022-08-30</fechaEntrega>
+    <totalFactura>300</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Memoria RAM DDR4</nombre>
+            <referencia>MR2022</referencia>
+            <precio>300</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>20</clienteId>
+    <numeroPedido>1020</numeroPedido>
+    <fechaCompra>2022-09-10</fechaCompra>
+    <fechaEntrega>2022-09-20</fechaEntrega>
+    <totalFactura>1500</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Televisor OLED</nombre>
+            <referencia>TO2022</referencia>
+            <precio>1500</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>21</clienteId>
+    <numeroPedido>1021</numeroPedido>
+    <fechaCompra>2022-10-05</fechaCompra>
+    <fechaEntrega>2022-10-15</fechaEntrega>
+    <totalFactura>200</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Estabilizador de cámara</nombre>
+            <referencia>EC2022</referencia>
+            <precio>200</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>22</clienteId>
+    <numeroPedido>1022</numeroPedido>
+    <fechaCompra>2022-11-08</fechaCompra>
+    <fechaEntrega>2022-11-18</fechaEntrega>
+    <totalFactura>180</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Funda para portátil</nombre>
+            <referencia>FP2022</referencia>
+            <precio>180</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>23</clienteId>
+    <numeroPedido>1023</numeroPedido>
+    <fechaCompra>2022-12-03</fechaCompra>
+    <fechaEntrega>2022-12-13</fechaEntrega>
+    <totalFactura>750</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Teclado inalámbrico retroiluminado</nombre>
+            <referencia>TI2022</referencia>
+            <precio>750</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>24</clienteId>
+    <numeroPedido>1024</numeroPedido>
+    <fechaCompra>2023-01-20</fechaCompra>
+    <fechaEntrega>2023-01-30</fechaEntrega>
+    <totalFactura>4000</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Ordenador todo en uno</nombre>
+            <referencia>OA2023</referencia>
+            <precio>4000</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>25</clienteId>
+    <numeroPedido>1025</numeroPedido>
+    <fechaCompra>2023-02-15</fechaCompra>
+    <fechaEntrega>2023-02-25</fechaEntrega>
+    <totalFactura>180</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Soporte para tablet</nombre>
+            <referencia>ST2023</referencia>
+            <precio>180</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>26</clienteId>
+    <numeroPedido>1026</numeroPedido>
+    <fechaCompra>2023-03-10</fechaCompra>
+    <fechaEntrega>2023-03-20</fechaEntrega>
+    <totalFactura>650</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Barra de sonido</nombre>
+            <referencia>BS2023</referencia>
+            <precio>650</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>27</clienteId>
+    <numeroPedido>1027</numeroPedido>
+    <fechaCompra>2023-04-05</fechaCompra>
+    <fechaEntrega>2023-04-15</fechaEntrega>
+    <totalFactura>300</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Auriculares deportivos</nombre>
+            <referencia>AD2023</referencia>
+            <precio>300</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>28</clienteId>
+    <numeroPedido>1028</numeroPedido>
+    <fechaCompra>2023-05-20</fechaCompra>
+    <fechaEntrega>2023-05-30</fechaEntrega>
+    <totalFactura>950</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Portátil ultraligero</nombre>
+            <referencia>PU2023</referencia>
+            <precio>950</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>29</clienteId>
+    <numeroPedido>1029</numeroPedido>
+    <fechaCompra>2023-06-15</fechaCompra>
+    <fechaEntrega>2023-06-25</fechaEntrega>
+    <totalFactura>150</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Hub USB</nombre>
+            <referencia>HU2023</referencia>
+            <precio>150</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>30</clienteId>
+    <numeroPedido>1030</numeroPedido>
+    <fechaCompra>2023-07-10</fechaCompra>
+    <fechaEntrega>2023-07-20</fechaEntrega>
+    <totalFactura>1800</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Proyector 4K</nombre>
+            <referencia>PR2023</referencia>
+            <precio>1800</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+<pedido>
+    <clienteId>31</clienteId>
+    <numeroPedido>1031</numeroPedido>
+    <fechaCompra>2023-08-05</fechaCompra>
+    <fechaEntrega>2023-08-15</fechaEntrega>
+    <totalFactura>280</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Ratón ergonómico</nombre>
+            <referencia>RE2023</referencia>
+            <precio>280</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>32</clienteId>
+    <numeroPedido>1032</numeroPedido>
+    <fechaCompra>2023-09-20</fechaCompra>
+    <fechaEntrega>2023-09-30</fechaEntrega>
+    <totalFactura>850</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Smart TV 8K</nombre>
+            <referencia>ST2023</referencia>
+            <precio>850</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>33</clienteId>
+    <numeroPedido>1033</numeroPedido>
+    <fechaCompra>2023-10-12</fechaCompra>
+    <fechaEntrega>2023-10-22</fechaEntrega>
+    <totalFactura>400</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Disco duro externo SSD</nombre>
+            <referencia>DS2023</referencia>
+            <precio>400</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>34</clienteId>
+    <numeroPedido>1034</numeroPedido>
+    <fechaCompra>2023-11-15</fechaCompra>
+    <fechaEntrega>2023-11-25</fechaEntrega>
+    <totalFactura>150</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Cable HDMI 2.1</nombre>
+            <referencia>CH2023</referencia>
+            <precio>150</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>35</clienteId>
+    <numeroPedido>1035</numeroPedido>
+    <fechaCompra>2023-12-10</fechaCompra>
+    <fechaEntrega>2023-12-20</fechaEntrega>
+    <totalFactura>900</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Portátil convertible</nombre>
+            <referencia>PC2023</referencia>
+            <precio>900</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>36</clienteId>
+    <numeroPedido>1036</numeroPedido>
+    <fechaCompra>2024-01-05</fechaCompra>
+    <fechaEntrega>2024-01-15</fechaEntrega>
+    <totalFactura>500</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Webcam de alta definición</nombre>
+            <referencia>WB2024</referencia>
+            <precio>500</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>37</clienteId>
+    <numeroPedido>1037</numeroPedido>
+    <fechaCompra>2024-02-10</fechaCompra>
+    <fechaEntrega>2024-02-20</fechaEntrega>
+    <totalFactura>750</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Monitor curvo</nombre>
+            <referencia>MC2024</referencia>
+            <precio>750</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>38</clienteId>
+    <numeroPedido>1038</numeroPedido>
+    <fechaCompra>2024-03-15</fechaCompra>
+    <fechaEntrega>2024-03-25</fechaEntrega>
+    <totalFactura>1800</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Proyector portátil</nombre>
+            <referencia>PP2024</referencia>
+            <precio>1800</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>39</clienteId>
+    <numeroPedido>1039</numeroPedido>
+    <fechaCompra>2024-04-20</fechaCompra>
+    <fechaEntrega>2024-04-30</fechaEntrega>
+    <totalFactura>400</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Router Wi-Fi 6</nombre>
+            <referencia>RW2024</referencia>
+            <precio>400</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>40</clienteId>
+    <numeroPedido>1040</numeroPedido>
+    <fechaCompra>2024-05-25</fechaCompra>
+    <fechaEntrega>2024-06-04</fechaEntrega>
+    <totalFactura>1500</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Consola de videojuegos</nombre>
+            <referencia>CV2024</referencia>
+            <precio>1500</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>41</clienteId>
+    <numeroPedido>1041</numeroPedido>
+    <fechaCompra>2024-06-18</fechaCompra>
+    <fechaEntrega>2024-06-28</fechaEntrega>
+    <totalFactura>200</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Cargador inalámbrico</nombre>
+            <referencia>CI2024</referencia>
+            <precio>200</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>42</clienteId>
+    <numeroPedido>1042</numeroPedido>
+    <fechaCompra>2024-07-03</fechaCompra>
+    <fechaEntrega>2024-07-13</fechaEntrega>
+    <totalFactura>700</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Tablet Android</nombre>
+            <referencia>TA2024</referencia>
+            <precio>700</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>43</clienteId>
+    <numeroPedido>1043</numeroPedido>
+    <fechaCompra>2024-08-20</fechaCompra>
+    <fechaEntrega>2024-08-30</fechaEntrega>
+    <totalFactura>400</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Altavoz inteligente</nombre>
+            <referencia>AI2024</referencia>
+            <precio>400</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>44</clienteId>
+    <numeroPedido>1044</numeroPedido>
+    <fechaCompra>2024-09-05</fechaCompra>
+    <fechaEntrega>2024-09-15</fechaEntrega>
+    <totalFactura>3000</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Robot aspirador</nombre>
+            <referencia>RA2024</referencia>
+            <precio>3000</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>45</clienteId>
+    <numeroPedido>1045</numeroPedido>
+    <fechaCompra>2024-10-10</fechaCompra>
+    <fechaEntrega>2024-10-20</fechaEntrega>
+    <totalFactura>250</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Power Bank</nombre>
+            <referencia>PB2024</referencia>
+            <precio>250</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>46</clienteId>
+    <numeroPedido>1046</numeroPedido>
+    <fechaCompra>2024-11-25</fechaCompra>
+    <fechaEntrega>2024-12-05</fechaEntrega>
+    <totalFactura>1200</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Auriculares inalámbricos</nombre>
+            <referencia>AI2024</referencia>
+            <precio>1200</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>47</clienteId>
+    <numeroPedido>1047</numeroPedido>
+    <fechaCompra>2024-12-20</fechaCompra>
+    <fechaEntrega>2025-01-02</fechaEntrega>
+    <totalFactura>600</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Lámpara inteligente</nombre>
+            <referencia>LI2024</referencia>
+            <precio>600</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>48</clienteId>
+    <numeroPedido>1048</numeroPedido>
+    <fechaCompra>2025-01-10</fechaCompra>
+    <fechaEntrega>2025-01-20</fechaEntrega>
+    <totalFactura>450</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Repetidor Wi-Fi</nombre>
+            <referencia>RW2025</referencia>
+            <precio>450</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>49</clienteId>
+    <numeroPedido>1049</numeroPedido>
+    <fechaCompra>2025-02-05</fechaCompra>
+    <fechaEntrega>2025-02-15</fechaEntrega>
+    <totalFactura>850</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Mini proyector</nombre>
+            <referencia>MP2025</referencia>
+            <precio>850</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>50</clienteId>
+    <numeroPedido>1050</numeroPedido>
+    <fechaCompra>2025-03-12</fechaCompra>
+    <fechaEntrega>2025-03-22</fechaEntrega>
+    <totalFactura>350</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Impresora portátil</nombre>
+            <referencia>IP2025</referencia>
+            <precio>350</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+<pedido>
+    <clienteId>51</clienteId>
+    <numeroPedido>1051</numeroPedido>
+    <fechaCompra>2025-04-18</fechaCompra>
+    <fechaEntrega>2025-04-28</fechaEntrega>
+    <totalFactura>400</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Monitor táctil</nombre>
+            <referencia>MT2025</referencia>
+            <precio>400</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>52</clienteId>
+    <numeroPedido>1052</numeroPedido>
+    <fechaCompra>2025-05-25</fechaCompra>
+    <fechaEntrega>2025-06-04</fechaEntrega>
+    <totalFactura>1200</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Impresora 3D</nombre>
+            <referencia>I3D2025</referencia>
+            <precio>1200</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>53</clienteId>
+    <numeroPedido>1053</numeroPedido>
+    <fechaCompra>2025-06-10</fechaCompra>
+    <fechaEntrega>2025-06-20</fechaEntrega>
+    <totalFactura>550</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Kit de inicio Raspberry Pi</nombre>
+            <referencia>KRP2025</referencia>
+            <precio>550</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>54</clienteId>
+    <numeroPedido>1054</numeroPedido>
+    <fechaCompra>2025-07-15</fechaCompra>
+    <fechaEntrega>2025-07-25</fechaEntrega>
+    <totalFactura>900</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Teclado mecánico RGB</nombre>
+            <referencia>TMRGB2025</referencia>
+            <precio>900</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>55</clienteId>
+    <numeroPedido>1055</numeroPedido>
+    <fechaCompra>2025-08-20</fechaCompra>
+    <fechaEntrega>2025-08-30</fechaEntrega>
+    <totalFactura>300</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Ratón gaming</nombre>
+            <referencia>RG2025</referencia>
+            <precio>300</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>56</clienteId>
+    <numeroPedido>1056</numeroPedido>
+    <fechaCompra>2025-09-18</fechaCompra>
+    <fechaEntrega>2025-09-28</fechaEntrega>
+    <totalFactura>1200</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Portátil para diseño gráfico</nombre>
+            <referencia>PDG2025</referencia>
+            <precio>1200</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>57</clienteId>
+    <numeroPedido>1057</numeroPedido>
+    <fechaCompra>2025-10-12</fechaCompra>
+    <fechaEntrega>2025-10-22</fechaEntrega>
+    <totalFactura>350</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Kit de memoria RAM DDR5</nombre>
+            <referencia>RAMDDR52025</referencia>
+            <precio>350</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>58</clienteId>
+    <numeroPedido>1058</numeroPedido>
+    <fechaCompra>2025-11-15</fechaCompra>
+    <fechaEntrega>2025-11-25</fechaEntrega>
+    <totalFactura>150</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Cable USB-C</nombre>
+            <referencia>USBC2025</referencia>
+            <precio>150</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>59</clienteId>
+    <numeroPedido>1059</numeroPedido>
+    <fechaCompra>2025-12-10</fechaCompra>
+    <fechaEntrega>2025-12-20</fechaEntrega>
+    <totalFactura>900</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Portátil para programación</nombre>
+            <referencia>PPROG2025</referencia>
+            <precio>900</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>60</clienteId>
+    <numeroPedido>1060</numeroPedido>
+    <fechaCompra>2026-01-05</fechaCompra>
+    <fechaEntrega>2026-01-15</fechaEntrega>
+    <totalFactura>500</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Disco duro externo de 2TB</nombre>
+            <referencia>DH2TB2026</referencia>
+            <precio>500</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>61</clienteId>
+    <numeroPedido>1061</numeroPedido>
+    <fechaCompra>2026-02-10</fechaCompra>
+    <fechaEntrega>2026-02-20</fechaEntrega>
+    <totalFactura>750</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Impresora láser monocromática</nombre>
+            <referencia>ILM2026</referencia>
+            <precio>750</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>62</clienteId>
+    <numeroPedido>1062</numeroPedido>
+    <fechaCompra>2026-03-15</fechaCompra>
+    <fechaEntrega>2026-03-25</fechaEntrega>
+    <totalFactura>1800</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Monitor ultra panorámico</nombre>
+            <referencia>MUP2026</referencia>
+            <precio>1800</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>63</clienteId>
+    <numeroPedido>1063</numeroPedido>
+    <fechaCompra>2026-04-20</fechaCompra>
+    <fechaEntrega>2026-04-30</fechaEntrega>
+    <totalFactura>400</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Teclado inalámbrico con touchpad</nombre>
+            <referencia>TIT2026</referencia>
+            <precio>400</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>64</clienteId>
+    <numeroPedido>1064</numeroPedido>
+    <fechaCompra>2026-05-25</fechaCompra>
+    <fechaEntrega>2026-06-04</fechaEntrega>
+    <totalFactura>1500</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Smartwatch con GPS</nombre>
+            <referencia>SWG2026</referencia>
+            <precio>1500</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>65</clienteId>
+    <numeroPedido>1065</numeroPedido>
+    <fechaCompra>2026-06-18</fechaCompra>
+    <fechaEntrega>2026-06-28</fechaEntrega>
+    <totalFactura>200</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Auriculares Bluetooth deportivos</nombre>
+            <referencia>ABD2026</referencia>
+            <precio>200</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+<pedido>
+    <clienteId>66</clienteId>
+    <numeroPedido>1066</numeroPedido>
+    <fechaCompra>2026-07-03</fechaCompra>
+    <fechaEntrega>2026-07-13</fechaEntrega>
+    <totalFactura>700</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Estación de trabajo móvil</nombre>
+            <referencia>EWM2026</referencia>
+            <precio>700</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>67</clienteId>
+    <numeroPedido>1067</numeroPedido>
+    <fechaCompra>2026-08-20</fechaCompra>
+    <fechaEntrega>2026-08-30</fechaEntrega>
+    <totalFactura>400</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Memoria USB 256GB</nombre>
+            <referencia>MUSB2026</referencia>
+            <precio>400</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>68</clienteId>
+    <numeroPedido>1068</numeroPedido>
+    <fechaCompra>2026-09-05</fechaCompra>
+    <fechaEntrega>2026-09-15</fechaEntrega>
+    <totalFactura>3000</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Drone con cámara 4K</nombre>
+            <referencia>DCK2026</referencia>
+            <precio>3000</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>69</clienteId>
+    <numeroPedido>1069</numeroPedido>
+    <fechaCompra>2026-10-10</fechaCompra>
+    <fechaEntrega>2026-10-20</fechaEntrega>
+    <totalFactura>250</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Teclado gamer mecánico</nombre>
+            <referencia>TGM2026</referencia>
+            <precio>250</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>70</clienteId>
+    <numeroPedido>1070</numeroPedido>
+    <fechaCompra>2026-11-25</fechaCompra>
+    <fechaEntrega>2026-12-05</fechaEntrega>
+    <totalFactura>1200</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Altavoces Bluetooth estéreo</nombre>
+            <referencia>ABE2026</referencia>
+            <precio>1200</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>71</clienteId>
+    <numeroPedido>1071</numeroPedido>
+    <fechaCompra>2026-12-20</fechaCompra>
+    <fechaEntrega>2027-01-02</fechaEntrega>
+    <totalFactura>600</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Router Wi-Fi Mesh</nombre>
+            <referencia>RWM2026</referencia>
+            <precio>600</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>72</clienteId>
+    <numeroPedido>1072</numeroPedido>
+    <fechaCompra>2027-01-10</fechaCompra>
+    <fechaEntrega>2027-01-20</fechaEntrega>
+    <totalFactura>450</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Teclado para tablet</nombre>
+            <referencia>TPT2027</referencia>
+            <precio>450</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>73</clienteId>
+    <numeroPedido>1073</numeroPedido>
+    <fechaCompra>2027-02-05</fechaCompra>
+    <fechaEntrega>2027-02-15</fechaEntrega>
+    <totalFactura>850</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Impresora multifunción</nombre>
+            <referencia>IMF2027</referencia>
+            <precio>850</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>74</clienteId>
+    <numeroPedido>1074</numeroPedido>
+    <fechaCompra>2027-03-12</fechaCompra>
+    <fechaEntrega>2027-03-22</fechaEntrega>
+    <totalFactura>350</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Ratón vertical ergonómico</nombre>
+            <referencia>RVE2027</referencia>
+            <precio>350</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>75</clienteId>
+    <numeroPedido>1075</numeroPedido>
+    <fechaCompra>2027-04-18</fechaCompra>
+    <fechaEntrega>2027-04-28</fechaEntrega>
+    <totalFactura>400</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Base de refrigeración para portátil</nombre>
+            <referencia>BRP2027</referencia>
+            <precio>400</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+<pedido>
+    <clienteId>99</clienteId>
+    <numeroPedido>1099</numeroPedido>
+    <fechaCompra>2029-04-18</fechaCompra>
+    <fechaEntrega>2029-04-28</fechaEntrega>
+    <totalFactura>400</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Kit de cámaras de seguridad WiFi</nombre>
+            <referencia>KCSW2029</referencia>
+            <precio>400</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>100</clienteId>
+    <numeroPedido>1100</numeroPedido>
+    <fechaCompra>2029-05-25</fechaCompra>
+    <fechaEntrega>2029-06-04</fechaEntrega>
+    <totalFactura>1200</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Impresora de etiquetas</nombre>
+            <referencia>IME2029</referencia>
+            <precio>1200</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>101</clienteId>
+    <numeroPedido>1101</numeroPedido>
+    <fechaCompra>2029-06-10</fechaCompra>
+    <fechaEntrega>2029-06-20</fechaEntrega>
+    <totalFactura>550</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Mini proyector portátil</nombre>
+            <referencia>MPP2029</referencia>
+            <precio>550</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>102</clienteId>
+    <numeroPedido>1102</numeroPedido>
+    <fechaCompra>2029-07-15</fechaCompra>
+    <fechaEntrega>2029-07-25</fechaEntrega>
+    <totalFactura>900</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Teclado inalámbrico retroiluminado</nombre>
+            <referencia>TIR2029</referencia>
+            <precio>900</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+<pedido>
+    <clienteId>103</clienteId>
+    <numeroPedido>1103</numeroPedido>
+    <fechaCompra>2029-08-20</fechaCompra>
+    <fechaEntrega>2029-08-30</fechaEntrega>
+    <totalFactura>300</totalFactura>
+    <productos>
+        <producto>
+            <nombre>Hub USB de carga rápida</nombre>
+            <referencia>HUBCR2029</referencia>
+            <precio>300</precio>
+            <unidades>1</unidades>
+        </producto>
+    </productos>
+</pedido>
+
+
+
+            <!-- Deberías continuar con más pedidos aquí, asegurándote de incluir 10 para este trimestre -->
+        </trimestre>
+        <!-- Repite la estructura para los otros trimestres y para el año 2022 -->
+    </año>
+    <!-- Detalle de clientes (para referencia, no parte del XML de pedidos) -->
+    <cliente id="1">
+        <nombre>John Doe</nombre>
+        <apellidos>Doe Family</apellidos>
+        <telefono>1234567890</telefono>
+        <direccion>
+            <calle>Main St 123</calle>
+            <ciudad>Electronica</ciudad>
+            <codigoPostal>12345</codigoPostal>
+            <provincia>Estado</provincia>
+        </direccion>
+        <correoElectronico>johndoe@example.com</correoElectronico>
+        <fechaInclusion>2021-01-01</fechaInclusion>
+    </cliente>
+<cliente id="2">
+    <nombre>Alice Smith</nombre>
+    <apellidos>Smith Family</apellidos>
+    <telefono>0987654321</telefono>
+    <direccion>
+        <calle>Oak St 456</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>54321</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>alicesmith@example.com</correoElectronico>
+    <fechaInclusion>2021-02-05</fechaInclusion>
+</cliente>
+
+<cliente id="3">
+    <nombre>Michael Johnson</nombre>
+    <apellidos>Johnson Family</apellidos>
+    <telefono>1357924680</telefono>
+    <direccion>
+        <calle>Pine St 789</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>98765</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>michaeljohnson@example.com</correoElectronico>
+    <fechaInclusion>2021-03-10</fechaInclusion>
+</cliente>
+
+<cliente id="4">
+    <nombre>Emily Williams</nombre>
+    <apellidos>Williams Family</apellidos>
+    <telefono>2468013579</telefono>
+    <direccion>
+        <calle>Elm St 1011</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>10101</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>emilywilliams@example.com</correoElectronico>
+    <fechaInclusion>2021-04-15</fechaInclusion>
+</cliente>
+
+<cliente id="5">
+    <nombre>William Brown</nombre>
+    <apellidos>Brown Family</apellidos>
+    <telefono>3698521470</telefono>
+    <direccion>
+        <calle>Maple St 1213</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>12121</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>williambrown@example.com</correoElectronico>
+    <fechaInclusion>2021-05-20</fechaInclusion>
+</cliente>
+
+<cliente id="6">
+    <nombre>Emma Jones</nombre>
+    <apellidos>Jones Family</apellidos>
+    <telefono>9517534680</telefono>
+    <direccion>
+        <calle>Cedar St 1415</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>14141</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>emmajones@example.com</correoElectronico>
+    <fechaInclusion>2021-06-25</fechaInclusion>
+</cliente>
+
+<cliente id="7">
+    <nombre>Matthew Garcia</nombre>
+    <apellidos>Garcia Family</apellidos>
+    <telefono>8529631470</telefono>
+    <direccion>
+        <calle>Birch St 1617</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>16161</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>matthewgarcia@example.com</correoElectronico>
+    <fechaInclusion>2021-07-30</fechaInclusion>
+</cliente>
+
+<cliente id="8">
+    <nombre>Sophia Martinez</nombre>
+    <apellidos>Martinez Family</apellidos>
+    <telefono>7531592460</telefono>
+    <direccion>
+        <calle>Walnut St 1819</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>18181</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>sophiamartinez@example.com</correoElectronico>
+    <fechaInclusion>2021-08-05</fechaInclusion>
+</cliente>
+
+<cliente id="9">
+    <nombre>Ethan Lopez</nombre>
+    <apellidos>Lopez Family</apellidos>
+    <telefono>1597536240</telefono>
+    <direccion>
+        <calle>Ash St 2021</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>20202</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>ethanlopez@example.com</correoElectronico>
+    <fechaInclusion>2021-09-10</fechaInclusion>
+</cliente>
+
+<cliente id="10">
+    <nombre>Isabella Hernandez</nombre>
+    <apellidos>Hernandez Family</apellidos>
+    <telefono>3579514680</telefono>
+    <direccion>
+        <calle>Cherry St 2223</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>22223</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>isabellahernandez@example.com</correoElectronico>
+    <fechaInclusion>2021-10-15</fechaInclusion>
+</cliente>
+
+<cliente id="11">
+    <nombre>James Young</nombre>
+    <apellidos>Young Family</apellidos>
+    <telefono>7539512460</telefono>
+    <direccion>
+        <calle>Peach St 2425</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>24242</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>jamesyoung@example.com</correoElectronico>
+    <fechaInclusion>2021-11-20</fechaInclusion>
+</cliente>
+
+<cliente id="12">
+    <nombre>Olivia King</nombre>
+    <apellidos>King Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Plum St 2627</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>26262</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>oliviaking@example.com</correoElectronico>
+    <fechaInclusion>2021-12-25</fechaInclusion>
+</cliente>
+
+<cliente id="13">
+    <nombre>Logan Scott</nombre>
+    <apellidos>Scott Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Grape St 2829</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>28282</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>loganscott@example.com</correoElectronico>
+    <fechaInclusion>2022-01-01</fechaInclusion>
+</cliente>
+
+<cliente id="14">
+    <nombre>Amelia Green</nombre>
+    <apellidos>Green Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Orange St 3031</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>30303</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>ameliagreen@example.com</correoElectronico>
+    <fechaInclusion>2022-02-05</fechaInclusion>
+</cliente>
+
+<cliente id="15">
+    <nombre>Benjamin Adams</nombre>
+    <apellidos>Adams Family</apellidos>
+    <telefono>9513691470</telefono>
+    <direccion>
+        <calle>Lemon St 3233</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>32323</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>benjaminadams@example.com</correoElectronico>
+    <fechaInclusion>2022-03-10</fechaInclusion>
+</cliente>
+
+<cliente id="16">
+    <nombre>Mia Campbell</nombre>
+    <apellidos>Campbell Family</apellidos>
+    <telefono>2581473690</telefono>
+    <direccion>
+        <calle>Pear St 3435</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>34343</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>miacampbell@example.com</correoElectronico>
+    <fechaInclusion>2022-04-15</fechaInclusion>
+</cliente>
+
+<cliente id="17">
+    <nombre>Lucas Rodriguez</nombre>
+    <apellidos>Rodriguez Family</apellidos>
+    <telefono>1473692580</telefono>
+    <direccion>
+        <calle>Blueberry St 3637</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>36363</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>lucasrodriguez@example.com</correoElectronico>
+    <fechaInclusion>2022-05-20</fechaInclusion>
+</cliente>
+
+<cliente id="18">
+    <nombre>Charlotte Hill</nombre>
+    <apellidos>Hill Family</apellidos>
+    <telefono>3692581470</telefono>
+    <direccion>
+        <calle>Watermelon St 3839</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>38383</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>charlottehill@example.com</correoElectronico>
+    <fechaInclusion>2022-06-25</fechaInclusion>
+</cliente>
+
+<cliente id="19">
+    <nombre>Henry Mitchell</nombre>
+    <apellidos>Mitchell Family</apellidos>
+    <telefono>9512583690</telefono>
+    <direccion>
+        <calle>Banana St 4041</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>40404</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>henrymitchell@example.com</correoElectronico>
+    <fechaInclusion>2022-07-30</fechaInclusion>
+</cliente>
+
+<cliente id="20">
+    <nombre>Harper Carter</nombre>
+    <apellidos>Carter Family</apellidos>
+    <telefono>2583699510</telefono>
+    <direccion>
+        <calle>Coconut St 4243</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>42424</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>harpercarter@example.com</correoElectronico>
+    <fechaInclusion>2022-08-05</fechaInclusion>
+</cliente>
+<cliente id="21">
+    <nombre>David Ramirez</nombre>
+    <apellidos>Ramirez Family</apellidos>
+    <telefono>1472589630</telefono>
+    <direccion>
+        <calle>Pineapple St 4445</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>44444</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>davidramirez@example.com</correoElectronico>
+    <fechaInclusion>2022-09-10</fechaInclusion>
+</cliente>
+
+<cliente id="22">
+    <nombre>Sofia Torres</nombre>
+    <apellidos>Torres Family</apellidos>
+    <telefono>3691478520</telefono>
+    <direccion>
+        <calle>Papaya St 4647</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>46464</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>sofiatorres@example.com</correoElectronico>
+    <fechaInclusion>2022-10-15</fechaInclusion>
+</cliente>
+
+<cliente id="23">
+    <nombre>Elijah Flores</nombre>
+    <apellidos>Flores Family</apellidos>
+    <telefono>9513698520</telefono>
+    <direccion>
+        <calle>Mango St 4849</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>48484</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>elijahflores@example.com</correoElectronico>
+    <fechaInclusion>2022-11-20</fechaInclusion>
+</cliente>
+
+<cliente id="24">
+    <nombre>Avery Gonzales</nombre>
+    <apellidos>Gonzales Family</apellidos>
+    <telefono>2589631470</telefono>
+    <direccion>
+        <calle>Dragonfruit St 5051</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>50505</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>averygonzales@example.com</correoElectronico>
+    <fechaInclusion>2022-12-25</fechaInclusion>
+</cliente>
+
+<cliente id="25">
+    <nombre>Madison Lopez</nombre>
+    <apellidos>Lopez Family</apellidos>
+    <telefono>1478523690</telefono>
+    <direccion>
+        <calle>Kiwi St 5253</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>52525</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>madisonlopez@example.com</correoElectronico>
+    <fechaInclusion>2023-01-01</fechaInclusion>
+</cliente>
+
+<cliente id="26">
+    <nombre>Sebastian Perez</nombre>
+    <apellidos>Perez Family</apellidos>
+    <telefono>3698521470</telefono>
+    <direccion>
+        <calle>Passionfruit St 5455</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>54545</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>sebastianperez@example.com</correoElectronico>
+    <fechaInclusion>2023-02-05</fechaInclusion>
+</cliente>
+
+<cliente id="27">
+    <nombre>Camila Sanchez</nombre>
+    <apellidos>Sanchez Family</apellidos>
+    <telefono>8521473690</telefono>
+    <direccion>
+        <calle>Raspberry St 5657</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>56565</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>camilasanchez@example.com</correoElectronico>
+    <fechaInclusion>2023-03-10</fechaInclusion>
+</cliente>
+
+<cliente id="28">
+    <nombre>Brayden Perez</nombre>
+    <apellidos>Perez Family</apellidos>
+    <telefono>1478523690</telefono>
+    <direccion>
+        <calle>Starfruit St 5859</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>58585</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>braydenperez@example.com</correoElectronico>
+    <fechaInclusion>2023-04-15</fechaInclusion>
+</cliente>
+
+<cliente id="29">
+    <nombre>Chloe Diaz</nombre>
+    <apellidos>Diaz Family</apellidos>
+    <telefono>3691478520</telefono>
+    <direccion>
+        <calle>Durian St 6061</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>60606</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>chloediaz@example.com</correoElectronico>
+    <fechaInclusion>2023-05-20</fechaInclusion>
+</cliente>
+
+<cliente id="30">
+    <nombre>Dylan Martinez</nombre>
+    <apellidos>Martinez Family</apellidos>
+    <telefono>2589631470</telefono>
+    <direccion>
+        <calle>Lychee St 6263</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>62626</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>dylanmartinez@example.com</correoElectronico>
+    <fechaInclusion>2023-06-25</fechaInclusion>
+</cliente>
+
+<cliente id="31">
+    <nombre>Penelope Gomez</nombre>
+    <apellidos>Gomez Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Guava St 6465</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>64646</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>penelopegomez@example.com</correoElectronico>
+    <fechaInclusion>2023-07-30</fechaInclusion>
+</cliente>
+
+<cliente id="32">
+    <nombre>Riley Vazquez</nombre>
+    <apellidos>Vazquez Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Pomegranate St 6667</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>66666</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>rileyvazquez@example.com</correoElectronico>
+    <fechaInclusion>2023-08-05</fechaInclusion>
+</cliente>
+
+<cliente id="33">
+    <nombre>Lucas Ramos</nombre>
+    <apellidos>Ramos Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Kumquat St 6869</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>68686</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>lucasramos@example.com</correoElectronico>
+    <fechaInclusion>2023-09-10</fechaInclusion>
+</cliente>
+
+<cliente id="34">
+    <nombre>Emma Diaz</nombre>
+    <apellidos>Diaz Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Pear St 7071</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>70707</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>emmadiaz@example.com</correoElectronico>
+    <fechaInclusion>2023-10-15</fechaInclusion>
+</cliente>
+
+<cliente id="35">
+    <nombre>Levi Cruz</nombre>
+    <apellidos>Cruz Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Apple St 7273</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>72727</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>levicruz@example.com</correoElectronico>
+    <fechaInclusion>2023-11-20</fechaInclusion>
+</cliente>
+
+<cliente id="36">
+    <nombre>Ella Rivera</nombre>
+    <apellidos>Rivera Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Apricot St 7475</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>74747</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>ellarivera@example.com</correoElectronico>
+    <fechaInclusion>2023-12-25</fechaInclusion>
+</cliente>
+
+<cliente id="37">
+    <nombre>Jack Allen</nombre>
+    <apellidos>Allen Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Pear St 7677</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>76767</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>jackallen@example.com</correoElectronico>
+    <fechaInclusion>2024-01-01</fechaInclusion>
+</cliente>
+
+<cliente id="38">
+    <nombre>Mia Lopez</nombre>
+    <apellidos>Lopez Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Coconut St 7879</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>78787</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>mialopez@example.com</correoElectronico>
+    <fechaInclusion>2024-02-05</fechaInclusion>
+</cliente>
+
+<cliente id="39">
+    <nombre>Noah Martinez</nombre>
+    <apellidos>Martinez Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Fig St 8081</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>80808</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>noahmartinez@example.com</correoElectronico>
+    <fechaInclusion>2024-03-10</fechaInclusion>
+</cliente>
+
+<cliente id="40">
+    <nombre>Abigail Rodriguez</nombre>
+    <apellidos>Rodriguez Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Lime St 8283</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>82828</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>abigailrodriguez@example.com</correoElectronico>
+    <fechaInclusion>2024-04-15</fechaInclusion>
+</cliente>
+
+<cliente id="41">
+    <nombre>Ethan Garcia</nombre>
+    <apellidos>Garcia Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Mango St 8485</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>84848</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>ethangarcia@example.com</correoElectronico>
+    <fechaInclusion>2024-05-20</fechaInclusion>
+</cliente>
+
+<cliente id="42">
+    <nombre>Charlotte Hernandez</nombre>
+    <apellidos>Hernandez Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Blueberry St 8687</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>86868</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>charlottehernandez@example.com</correoElectronico>
+    <fechaInclusion>2024-06-25</fechaInclusion>
+</cliente>
+
+<cliente id="43">
+    <nombre>Aria Martinez</nombre>
+    <apellidos>Martinez Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Papaya St 8889</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>88888</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>ariamartinez@example.com</correoElectronico>
+    <fechaInclusion>2024-07-30</fechaInclusion>
+</cliente>
+
+<cliente id="44">
+    <nombre>Logan Gonzalez</nombre>
+    <apellidos>Gonzalez Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Starfruit St 9091</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>90909</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>logangonzalez@example.com</correoElectronico>
+    <fechaInclusion>2024-08-05</fechaInclusion>
+</cliente>
+
+<cliente id="45">
+    <nombre>Grace Perez</nombre>
+    <apellidos>Perez Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Raspberry St 9293</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>92929</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>graceperez@example.com</correoElectronico>
+    <fechaInclusion>2024-09-10</fechaInclusion>
+</cliente>
+<cliente id="46">
+    <nombre>Liam Flores</nombre>
+    <apellidos>Flores Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Pineapple St 9495</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>94949</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>liamflores@example.com</correoElectronico>
+    <fechaInclusion>2024-10-15</fechaInclusion>
+</cliente>
+
+<cliente id="47">
+    <nombre>Harper Diaz</nombre>
+    <apellidos>Diaz Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Papaya St 9697</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>96969</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>harperdiaz@example.com</correoElectronico>
+    <fechaInclusion>2024-11-20</fechaInclusion>
+</cliente>
+
+<cliente id="48">
+    <nombre>Oliver Sanchez</nombre>
+    <apellidos>Sanchez Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Passionfruit St 9899</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>98989</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>oliversanchez@example.com</correoElectronico>
+    <fechaInclusion>2024-12-25</fechaInclusion>
+</cliente>
+
+<cliente id="49">
+    <nombre>Evelyn Vazquez</nombre>
+    <apellidos>Vazquez Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Raspberry St 100101</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>100100</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>evelynvazquez@example.com</correoElectronico>
+    <fechaInclusion>2025-01-01</fechaInclusion>
+</cliente>
+
+<cliente id="50">
+    <nombre>William Cruz</nombre>
+    <apellidos>Cruz Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Pomegranate St 102103</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>102102</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>williamcruz@example.com</correoElectronico>
+    <fechaInclusion>2025-02-05</fechaInclusion>
+</cliente>
+
+<cliente id="51">
+    <nombre>Eleanor Rivera</nombre>
+    <apellidos>Rivera Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Apricot St 104105</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>104104</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>eleanorrivera@example.com</correoElectronico>
+    <fechaInclusion>2025-03-10</fechaInclusion>
+</cliente>
+
+<cliente id="52">
+    <nombre>Stella Allen</nombre>
+    <apellidos>Allen Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Pear St 106107</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>106106</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>stellaallen@example.com</correoElectronico>
+    <fechaInclusion>2025-04-15</fechaInclusion>
+</cliente>
+
+<cliente id="53">
+    <nombre>Nathan Lopez</nombre>
+    <apellidos>Lopez Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Coconut St 108109</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>108108</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>nathanlopez@example.com</correoElectronico>
+    <fechaInclusion>2025-05-20</fechaInclusion>
+</cliente>
+
+<cliente id="54">
+    <nombre>Lily Martinez</nombre>
+    <apellidos>Martinez Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Fig St 110111</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>110110</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>lilymartinez@example.com</correoElectronico>
+    <fechaInclusion>2025-06-25</fechaInclusion>
+</cliente>
+
+<cliente id="55">
+    <nombre>James Rodriguez</nombre>
+    <apellidos>Rodriguez Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Lime St 112113</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>112112</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>jamesrodriguez@example.com</correoElectronico>
+    <fechaInclusion>2025-07-30</fechaInclusion>
+</cliente>
+
+<cliente id="56">
+    <nombre>Aubrey Garcia</nombre>
+    <apellidos>Garcia Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Mango St 114115</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>114114</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>aubreygarcia@example.com</correoElectronico>
+    <fechaInclusion>2025-08-05</fechaInclusion>
+</cliente>
+
+<cliente id="57">
+    <nombre>Adrian Hernandez</nombre>
+    <apellidos>Hernandez Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Blueberry St 116117</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>116116</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>adrianhernandez@example.com</correoElectronico>
+    <fechaInclusion>2025-09-10</fechaInclusion>
+</cliente>
+
+<cliente id="58">
+    <nombre>Madelyn Martinez</nombre>
+    <apellidos>Martinez Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Papaya St 118119</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>118118</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>madelynmartinez@example.com</correoElectronico>
+    <fechaInclusion>2025-10-15</fechaInclusion>
+</cliente>
+
+<cliente id="59">
+    <nombre>Ruby Gonzalez</nombre>
+    <apellidos>Gonzalez Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Starfruit St 120121</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>120120</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>rubygonzalez@example.com</correoElectronico>
+    <fechaInclusion>2025-11-20</fechaInclusion>
+</cliente>
+
+<cliente id="60">
+    <nombre>Eliana Perez</nombre>
+    <apellidos>Perez Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Raspberry St 122123</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>122122</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>elianaperez@example.com</correoElectronico>
+    <fechaInclusion>2025-12-25</fechaInclusion>
+</cliente>
+
+<cliente id="61">
+    <nombre>Landon Cruz</nombre>
+    <apellidos>Cruz Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Pomegranate St 124125</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>124124</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>landoncruz@example.com</correoElectronico>
+    <fechaInclusion>2026-01-01</fechaInclusion>
+</cliente>
+
+<cliente id="62">
+    <nombre>Hailey Rivera</nombre>
+    <apellidos>Rivera Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Apricot St 126127</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>126126</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>haileyrivera@example.com</correoElectronico>
+    <fechaInclusion>2026-02-05</fechaInclusion>
+</cliente>
+
+<cliente id="63">
+    <nombre>Carter Allen</nombre>
+    <apellidos>Allen Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Pear St 128129</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>128128</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>carterallen@example.com</correoElectronico>
+    <fechaInclusion>2026-03-10</fechaInclusion>
+</cliente>
+
+<cliente id="64">
+    <nombre>Audrey Lopez</nombre>
+    <apellidos>Lopez Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Coconut St 130131</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>130130</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>audreylopez@example.com</correoElectronico>
+    <fechaInclusion>2026-04-15</fechaInclusion>
+</cliente>
+
+<cliente id="65">
+    <nombre>Brooklyn Martinez</nombre>
+    <apellidos>Martinez Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Fig St 132133</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>132132</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>brooklynmartinez@example.com</correoElectronico>
+    <fechaInclusion>2026-05-20</fechaInclusion>
+</cliente>
+
+<cliente id="66">
+    <nombre>Luke Rodriguez</nombre>
+    <apellidos>Rodriguez Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Lime St 134135</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>134134</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>lukerodriguez@example.com</correoElectronico>
+    <fechaInclusion>2026-06-25</fechaInclusion>
+</cliente>
+
+<cliente id="67">
+    <nombre>Penelope Garcia</nombre>
+    <apellidos>Garcia Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Mango St 136137</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>136136</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>penelopegarcia@example.com</correoElectronico>
+    <fechaInclusion>2026-07-30</fechaInclusion>
+</cliente>
+
+<cliente id="68">
+    <nombre>Arianna Hernandez</nombre>
+    <apellidos>Hernandez Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Blueberry St 138139</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>138138</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>ariannahernandez@example.com</correoElectronico>
+    <fechaInclusion>2026-08-05</fechaInclusion>
+</cliente>
+
+<cliente id="69">
+    <nombre>Aaliyah Martinez</nombre>
+    <apellidos>Martinez Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Papaya St 140141</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>140140</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>aaliyahmartinez@example.com</correoElectronico>
+    <fechaInclusion>2026-09-10</fechaInclusion>
+</cliente>
+
+<cliente id="70">
+    <nombre>Xavier Gonzalez</nombre>
+    <apellidos>Gonzalez Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Starfruit St 142143</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>142142</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>xaviergonzalez@example.com</correoElectronico>
+    <fechaInclusion>2026-10-15</fechaInclusion>
+</cliente>
+<cliente id="71">
+    <nombre>Scarlett Perez</nombre>
+    <apellidos>Perez Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Raspberry St 144145</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>144144</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>scarlettperez@example.com</correoElectronico>
+    <fechaInclusion>2026-11-20</fechaInclusion>
+</cliente>
+
+<cliente id="72">
+    <nombre>Grayson Cruz</nombre>
+    <apellidos>Cruz Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Pomegranate St 146147</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>146146</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>graysoncruz@example.com</correoElectronico>
+    <fechaInclusion>2026-12-25</fechaInclusion>
+</cliente>
+
+<cliente id="73">
+    <nombre>Luna Allen</nombre>
+    <apellidos>Allen Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Pear St 148149</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>148148</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>lunaallen@example.com</correoElectronico>
+    <fechaInclusion>2027-01-01</fechaInclusion>
+</cliente>
+
+<cliente id="74">
+    <nombre>Cameron Lopez</nombre>
+    <apellidos>Lopez Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Coconut St 150151</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>150150</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>cameronlopez@example.com</correoElectronico>
+    <fechaInclusion>2027-02-05</fechaInclusion>
+</cliente>
+
+<cliente id="75">
+    <nombre>Hazel Martinez</nombre>
+    <apellidos>Martinez Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Fig St 152153</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>152152</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>hazelmartinez@example.com</correoElectronico>
+    <fechaInclusion>2027-03-10</fechaInclusion>
+</cliente>
+
+<cliente id="76">
+    <nombre>Zoey Rodriguez</nombre>
+    <apellidos>Rodriguez Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Lime St 154155</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>154154</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>zoeyrodriguez@example.com</correoElectronico>
+    <fechaInclusion>2027-04-15</fechaInclusion>
+</cliente>
+
+<cliente id="77">
+    <nombre>Ezekiel Garcia</nombre>
+    <apellidos>Garcia Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Mango St 156157</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>156156</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>ezekielgarcia@example.com</correoElectronico>
+    <fechaInclusion>2027-05-20</fechaInclusion>
+</cliente>
+
+<cliente id="78">
+    <nombre>Savannah Hernandez</nombre>
+    <apellidos>Hernandez Family</apellidos>
+    <telefono>2583691470</telefono>
+    <direccion>
+        <calle>Blueberry St 158159</calle>
+        <ciudad>Tecnología</ciudad>
+        <codigoPostal>158158</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>savannahhernandez@example.com</correoElectronico>
+    <fechaInclusion>2027-06-25</fechaInclusion>
+</cliente>
+
+<cliente id="79">
+    <nombre>Nolan Martinez</nombre>
+    <apellidos>Martinez Family</apellidos>
+    <telefono>1472583690</telefono>
+    <direccion>
+        <calle>Papaya St 160161</calle>
+        <ciudad>Electrónica</ciudad>
+        <codigoPostal>160160</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>nolanmartinez@example.com</correoElectronico>
+    <fechaInclusion>2027-07-30</fechaInclusion>
+</cliente>
+
+<cliente id="80">
+    <nombre>Alexis Gonzalez</nombre>
+    <apellidos>Gonzalez Family</apellidos>
+    <telefono>3691472580</telefono>
+    <direccion>
+        <calle>Starfruit St 162163</calle>
+        <ciudad>Informática</ciudad>
+        <codigoPostal>162162</codigoPostal>
+        <provincia>Estado</provincia>
+    </direccion>
+    <correoElectronico>alexisgonzalez@example.com</correoElectronico>
+    <fechaInclusion>2027-08-05</fechaInclusion>
+</cliente>
+
+
+    <!-- Añadir más detalles de clientes aquí -->
+</clientes>

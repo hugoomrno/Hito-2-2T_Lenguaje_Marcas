@@ -1,0 +1,31 @@
+<!ELEMENT clientes (año, cliente)>
+<!ELEMENT año (trimestre)>
+<!ATTLIST año
+          valor CDATA #REQUIRED>
+<!ELEMENT trimestre (pedido)>
+<!ATTLIST trimestre
+          valor CDATA #REQUIRED>
+<!ELEMENT pedido (clienteId, numeroPedido, fechaCompra, fechaEntrega, totalFactura, productos)>
+<!ELEMENT clienteId (#PCDATA)>
+<!ELEMENT numeroPedido (#PCDATA)>
+<!ELEMENT fechaCompra (#PCDATA)>
+<!ELEMENT fechaEntrega (#PCDATA)>
+<!ELEMENT totalFactura (#PCDATA)>
+<!ELEMENT productos (producto)>
+<!ELEMENT producto (nombre, referencia, precio, unidades)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT referencia (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT unidades (#PCDATA)>
+<!ELEMENT cliente (nombre, apellidos, telefono, direccion, correoElectronico, fechaInclusion)>
+<!ATTLIST cliente
+          id CDATA #REQUIRED>
+<!ELEMENT apellidos (#PCDATA)>
+<!ELEMENT telefono (#PCDATA)>
+<!ELEMENT direccion (calle, ciudad, codigoPostal, provincia)>
+<!ELEMENT calle (#PCDATA)>
+<!ELEMENT ciudad (#PCDATA)>
+<!ELEMENT codigoPostal (#PCDATA)>
+<!ELEMENT provincia (#PCDATA)>
+<!ELEMENT correoElectronico (#PCDATA)>
+<!ELEMENT fechaInclusion (#PCDATA)>
